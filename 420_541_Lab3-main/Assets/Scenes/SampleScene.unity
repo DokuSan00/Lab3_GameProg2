@@ -2509,7 +2509,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   FireButtonPressedTime: 0
   maxTime: 3
-  bulletToSpawn: {fileID: 1086265901612121228, guid: 451c0f0a90d802848bb7c3cf24f8d585, type: 3}
+  bulletToSpawn: {fileID: 2444902857245102615, guid: 651e93eb756ac9e4397cb7eae27f1ab1, type: 3}
   spawnPoint: {fileID: 6926889646644216968}
 --- !u!1 &1095616125
 GameObject:
@@ -4101,7 +4101,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6926889646644216968}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1.2, z: 0.02}
+  m_LocalPosition: {x: 0, y: 1.2000384, z: 0.019829268}
   m_LocalScale: {x: 5, y: 3.6363633, z: 2.3529406}
   m_ConstrainProportionsScale: 0
   m_Children: []

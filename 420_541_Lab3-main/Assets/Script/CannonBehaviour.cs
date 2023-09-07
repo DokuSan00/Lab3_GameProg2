@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class BulletBehaviour : MonoBehaviour
+public class CannonBehaviour : MonoBehaviour
 {
     // Start is called before the first frame update
     public float FireButtonPressedTime = 0.0f;

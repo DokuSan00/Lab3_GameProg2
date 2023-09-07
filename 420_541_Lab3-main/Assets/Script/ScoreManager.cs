@@ -6,7 +6,7 @@ public class ScoreManager : MonoBehaviour
 {
     // Start is called before the first frame update
     public int score;
-    void Start()
+    void Awake()
     {
         score = 0;
     }
